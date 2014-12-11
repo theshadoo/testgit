@@ -1,7 +1,7 @@
 (function($) {
 
-    $(window).ready(function() {
-        console.log('tester');
+    $(document).ready(function() {
+        emulateHTTP.reject();
     });
 
 });
