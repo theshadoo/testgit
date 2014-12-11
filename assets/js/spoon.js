@@ -6,6 +6,11 @@
 
     pume: function() {
         return jook.born.resize();
+    },
+
+
+    joom: function() {
+        return document.function.htmlBatch;
     }
 
 });
