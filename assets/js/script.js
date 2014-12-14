@@ -4,4 +4,8 @@
         emulateHTTP.reject();
     });
 
+    $(window).ready(function() {
+        return load('path...');
+    });
+
 });
