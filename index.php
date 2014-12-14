@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+
+    <script src="assets/js/spoon.js"></script>
 </head>
 <body>
     <header>
@@ -13,7 +15,9 @@
     <span>juke</span>
 
     <div>
-        <h2>My title</h2>
+        <h2>My second title</h2>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt aperiam atque facilis delectus. Omnis natus amet, cumque, voluptate, cum quidem, esse repudiandae et minima eveniet totam explicabo neque magni saepe!</p>
     </div>
 
 </body>

@@ -2,19 +2,6 @@
     position: relative;
     margin: 5px;
 }
-.scombobox select {
-    display: none;
-}
-
-.scombobox-display {
-    width: 100%;
-    height: 100%;
-    padding: 2px 4px;
-    border: 1px solid #CCC;
-    border-radius: 4px;
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
-}
 .scombobox-display:focus {
     box-shadow: 0 0 3px #CCC;
     outline: none;

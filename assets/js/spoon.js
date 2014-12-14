@@ -7,7 +7,8 @@
     var firstvar = 'variable 1';
 
     pume: function() {
-        return jook.born.resize();
+        var sunk = desarpoint.login('blow');
+        return book.junk.follow();
     },
 
 

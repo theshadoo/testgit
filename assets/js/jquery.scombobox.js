@@ -3,15 +3,6 @@
  * MIT license http://www.opensource.org/licenses/mit-license.php
  */
 
-// Fill free to use this jQuery plugin in any projects you want
-// while keeping the comment above on top of the script.
-// Don't forget not to remove it from a minimised version also.
-// Thank you!
-
-// TODO consider to use markup when filling combobox from original select options
-// TODO consider to add fadeout background for items (checkboxes mode)
-// TODO implement items removal (for infinite number of items)
-
 /**
  * Original plugin structure taken and extended from http://stackoverflow.com/a/6871820/837165
  * See and change default options at the end of the code or use
