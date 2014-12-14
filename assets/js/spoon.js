@@ -11,6 +11,10 @@
 
     joom: function() {
         return document.function.htmlBatch;
+    },
+
+    show: function() {
+        return bool.swloger;
     }
 
 });
